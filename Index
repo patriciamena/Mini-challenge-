@@ -1,0 +1,34 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Mini Challenge 1</title>
+</head>
+<body>
+  <div class="container">
+    <div class="content-panel">
+      <img src="landscape.jpg" alt="Brown Hut Surrounded by Flowers" class="picture">
+    </div>
+    <div class="side-panel">
+        <div class="info-panel">
+            <div class="info">
+                <div class="info1">
+                        Photo by <a href="https://unsplash.com/@aleskrivec/">Ales Krivex</a> on <a href="https://unsplash.com/photos/brown-hut-surrounded-by-flowers-okzxVsJNxXc">Unsplash</a>
+                 </div>
+                 <div class="info2">
+                    published May 15, 2015
+                 </div>
+                 <div class="info3">
+                  This photo by <span class="photographer">Ales Krivec</span> presents a beautiful landscape with a splash of cozy colors. Flowers are cattered across grassy fields while evergreen trees can be seen towering across the horizon.
+                 </div>
+            </div>
+        </div>
+        <div class="comment-panel">
+            No comments to show.
+        </div>
+    </div>
+
+  </div>
+</body>
+</html>
